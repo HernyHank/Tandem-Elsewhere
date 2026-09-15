@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\82953954\\Documents\\GitHub\\Tandem-Elsewhere\\Tandem_Elsewhere\\Intermediate\\Source\\Tandem_Elsewhere.Build.cs",
+		"C:\\Users\\82953954\\Documents\\GitHub\\Tandem-Elsewhere\\Tandem_Elsewhere\\Intermediate\\Source\\Tandem_Elsewhere.Target.cs",
+		"C:\\Users\\82953954\\Documents\\GitHub\\Tandem-Elsewhere\\Tandem_Elsewhere\\Intermediate\\Source\\Tandem_ElsewhereClient.Target.cs",
+		"C:\\Users\\82953954\\Documents\\GitHub\\Tandem-Elsewhere\\Tandem_Elsewhere\\Intermediate\\Source\\Tandem_ElsewhereEditor.Target.cs",
+		"C:\\Users\\82953954\\Documents\\GitHub\\Tandem-Elsewhere\\Tandem_Elsewhere\\Intermediate\\Source\\Tandem_ElsewhereServer.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}
